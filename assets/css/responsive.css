@@ -1,0 +1,1089 @@
+/*
+Theme Name: Baboo - MULTIPURPOSE HTML5 Template.
+Author: Themeganj
+Author URL: https://www.templatemonster.com/vendors/Themeganjthemes/
+Version: 1.0.0
+*/
+
+@media (max-width: 1800px) {
+    .exp-project-3 .project-gallery .gallery-size {
+        column-width: 26em;
+    }
+}
+@media (max-width: 1500px) {
+    .exp-project-3 .project-gallery .gallery-size {
+        column-width: 21.4em;
+    }
+    .topbar .left-side li {
+        margin-right: 10px;
+    }
+}
+@media(max-width:1600px) {
+    .exp-home2-testimonial .exp-testimonial-item.slick-center .exp-testimonial-item-inner {
+        transform: none;
+        -webkit-transform: none;
+        width: calc(100% - 150px);
+    }
+    .exp-project-4 .pro-img {
+        width: calc(100% / 3) !important;
+    }
+    .exp-home2-portfolio .slick-modified-dots {
+        width: 100%;
+        margin-top: -150px;
+    }
+    .exp-home1-header img {
+        width: 100%;
+    }
+}
+@media(max-width:1200px) {
+  .exp-customers .exp-customer-content{
+    margin-bottom: 30px;
+  }
+    .topbar .left-side li {
+        margin-right: 5px;
+        font-size: 12px;
+    }
+    .locations-sec .location-map .mapboxgl-map{
+        height: 780px;
+    }
+    /* --Upcoming Events-- */
+
+    h1 {
+        font-size: 38px;
+    }
+    h6 {
+        font-size: 18px;
+    }
+    .exp-project-3 .project-gallery .gallery-size {
+        column-width: 17.2em;
+    }
+    .exp-footer-style-2 .exp-footer-item-center-2,
+    .exp-footer-style-2 .exp-footer-item-right {
+        margin-left: 0;
+        padding-left: 0;
+    }
+    .exp-wrapper {
+        margin: 20px 0;
+    }
+    .exp-home1-header .exp-slick-dots {
+        left: 10%;
+    }
+    .exp-achievments .achievments-counter {
+        padding: 30px 10px;
+    }
+    .exp-achievments .achievments-counter .icon-block {
+        margin-right: 10px;
+    }
+    .exp-achievments p {
+        margin-bottom: 30px;
+    }
+    .exp-services-6 .exp-services-item {
+        padding: 50px 15px;
+    }
+    .exp-home2-about .exp-about-wrapper {
+        padding-top: 20px;
+    }
+    .exp-home2-about .exp-about-title {
+        padding-right: 20px;
+    }
+    .exp-home2-product-a .exp-ceo {
+        margin-top: 20px;
+    }
+    .exp-ceo p {
+        margin-bottom: 0;
+    }
+    .exp-home2-product-b .exp-points {
+        margin: 0;
+    }
+    .exp-home2-download .download-circle {
+        width: 495px;
+        height: 495px;
+        margin: 0 auto;
+    }
+    .exp-about-product2 .exp-points {
+        padding-top: 5px;
+    }
+    .exp-about-workflow .workflow-item {
+        padding: 15px;
+    }
+    .exp-about-testimonial .exp-about1-slider .slick-arrow {
+        right: 17.2%;
+        margin-top: 15%;
+    }
+    .exp-portfolio-1 .grid-sizer {
+        width: calc(100% / 3);
+    }
+    .exp-project-5 .project-item {
+        width: calc((100% - 20px)/2);
+    }
+    .exp-project-4 .pro-img {
+        width: calc(100% / 3) !important;
+    }
+    .exp-home2-testimonial .exp-testimonial-item.slick-center .exp-testimonial-item-inner {
+        transform: none;
+        -webkit-transform: none;
+        width: calc(100% + 15px);
+    }
+    .exp-home2-portfolio .slick-modified-dots {
+        width: 100%;
+    }
+    .blue-top:after {
+        display: none;
+    }
+    .exp-values.blue-top:after {
+        display: block;
+    }
+    .exp-about-video .about-video-wrap {
+        left: -10%;
+        transform: none;
+    }
+    .exp-pricing-plans.exp-about-video .tab-pane {
+        padding: 0;
+    }
+    .exp-about-video .exp-tab-wrap {
+        margin-left: 30px;
+    }
+    .exp-home2-testimonial .exp-testimonial-item .exp-testimonial-content:after {
+        top: 10px;
+        right: 10px;
+    }
+    .exp-home6-services .exp-product-content {
+        padding-left: 0;
+    }
+    /*lw-about-section*/
+    .lw-about-primary-image-wrapper {
+        width: 330px;
+    }
+    .lw-about-secondary-image-wrapper {
+        top: 34px;
+        width: 201px;
+    }
+    .lw-about-square-box {
+        left: 59px;
+        top: -52px;
+        width: 265px;
+        height: 453px;
+    }
+    .mb-lg-20 {
+        margin-bottom: 20px;
+    }
+    .mb-lg-30 {
+        margin-bottom: 30px;
+    }
+    .mb-lg-40 {
+        margin-bottom: 40px;
+    }
+    .mb-lg-80 {
+        margin-bottom: 80px;
+    }
+}
+@media(max-width:992px) {
+    .exp-home3-video .video-title,
+    .section-header.right-side,
+    .section-header.left-side {
+        margin: 0 auto;
+        text-align: center;
+    }
+    .section-header.left-side .section-heading h5:after,
+    .section-header.right-side .section-heading h5:after{
+        margin: 10px auto 0;
+    }
+    .exp-home3-video .col-lg-3{
+        position: relative;
+        margin-top: 40px;
+    }
+    .exp-account .exp-account-num {
+        border: none;
+    }
+    /* New-Pricing */
+    .pricing-table .pricing-video {
+        margin-bottom: 40px;
+    }
+    /* --New Blog-- */
+    .exp-new-blog .new-blog-twitter-wrapper {
+        margin-top: 50px;
+    }
+    /* --Upcoming Events-- */
+    .event-content-box .event-image {
+        display: none;
+    }
+    .event-content-box .date-of-event {
+        margin-bottom: 0;
+    }
+    /* AboutUs-2 */
+    .exp-about-us-2 .about-2-content {
+        max-width: 710px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        margin-top: 0px;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    /* WhyChooseUs-new */
+    .exp-home3-video:after,
+    .exp-why-choose-us .why-choose-img img {
+        display: block;
+        width: 100%;
+    }
+    .exp-why-choose-us .why-choose-img {
+        background-image: unset;
+        height: auto;
+    }
+    .exp-why-choose-us .why-choose-content .content-with-width {
+        max-width: 100%;
+        padding: 70px 30px;
+    }
+    /*spacing-detail-section*/
+    .exp-spacing-detail .exp-workspace-toggle {
+        margin-top: 0;
+    }
+    /*lw-about-section*/
+    .lw-about-primary-image-wrapper {
+        width: 556px;
+    }
+    .lw-about-secondary-image-wrapper {
+        top: 55px;
+        width: 300px;
+    }
+    .lw-about-square-box {
+        height: 700px;
+    }
+    .lw-about-section-right {
+        margin-top: 60px;
+    }
+    .lw-about-right-heading {
+        font-size: 30px;
+        max-width: 350px;
+    }
+    .lw-about-right-content {
+        margin-top: 30px;
+    }
+    .lw-about-right-heading:before {
+        content: none;
+    }
+    .lw-about-right-content p:first-child {
+        margin: 26px 0;
+        font-size: 15px;
+        max-width: 530px;
+    }
+    .exp-cal2:before {
+        content: '';
+        background-color: #14366c;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: 400px;
+        position: absolute;
+        border-radius: 0;
+        z-index: -1;
+    }
+    .locations-sec .location-map .mapboxgl-map{
+        height: 400px;
+        min-height: 400px;
+    }
+    .locations-sec .locations-right-side{
+        padding-right: 80px;
+    }
+    .mb-md-20 {
+        margin-bottom: 20px;
+    }
+    .mb-md-30 {
+        margin-bottom: 30px;
+    }
+    .mb-md-40 {
+        margin-bottom: 40px;
+    }
+    .mb-md-80 {
+        margin-bottom: 80px;
+    }
+}
+@media (max-width: 991px) {
+    .cw-testimonial-box .section-title-center,
+    .cw-faq-box .section-title-center{
+        text-align: center;
+        margin: 0 auto;
+    }
+    .topbar .left-side ul,
+    .topbar .right-side ul{
+        justify-content: center;
+    }
+    .topbar .left-side li,
+    .topbar .right-side li{
+        font-size: 14px;
+        margin: 0 10px;
+    }
+    /*EVents*/
+    .event-content-box .date-of-event{
+        padding-top: 0;
+        padding-bottom: 0px;
+        margin: 0 auto 20px;
+        border-radius: 0;
+        padding: 10px;
+    }
+    .event-content-box .date-of-event .big-number{
+        font-size: 50px;
+    }
+    .event-content-box .content-wrapper .event-text-bottom{
+        flex-wrap: wrap;
+    }
+    .exp-upcoming-events .exp-event-details{
+        padding: 20px;
+    }
+    .event-content-box .content-wrapper .event-text-bottom .event-location,
+    .event-content-box .content-wrapper .event-text-bottom .event-author{
+        margin-bottom: 20px;
+    }
+    .exp-event-details .event-content-box{
+        display: block;
+    }
+    .exp-project-3 .project-gallery .gallery-size {
+        column-width: 24em;
+    }
+    .section-title-center {
+        padding-bottom: 40px;
+    }
+    .exp-product-section .exp-product-content {
+        padding: 25px 0;
+    }
+    .exp-product-section .btn-top-70 {
+        margin-bottom: 0;
+    }
+    .section-padding {
+        padding: 60px 0;
+    }
+    .exp-home1-header {
+        padding: 150px 0;
+    }
+    .btn-top-50,
+    .btn-top-70 {
+        margin: 30px 0;
+    }
+    .exp-footer-style-2 .exp-footer-item-center,
+    .exp-footer-style-2 .exp-footer-item-center-2 {
+        margin-left: 0;
+    }
+    .exp-footer-style-2 .exp-footer-item-right {
+        padding: 0;
+    }
+    .exp-footer-style-2 .exp-footer-item-right form .exp-btn-wrapper button {
+        float: none;
+    }
+    .exp-footer-style-2 .seperator {
+        margin: 30px 0;
+    }
+    .exp-footer-copyright .exp-copyright-right {
+        float: none;
+    }
+    .exp-footer-copyright {
+        padding: 20px 0;
+    }
+    .exp-footer-copyright .exp-copyright-left,
+    .exp-footer-copyright .exp-copyright-right {
+        padding: 0;
+    }
+    .exp-footer-copyright .exp-copyright-right ul li {
+        margin-left: 10px;
+    }
+    .exp-home1-header .exp-slick-dots {
+        text-align: center;
+        bottom: -50px;
+        left: 0;
+    }
+    .exp-achievments-content {
+        margin-top: 20px;
+    }
+    .video-img .video-btn-wrapper {
+        width: 100%;
+    }
+    .exp-pricing-plans .exp-pricing-plans-inner {
+        padding: 10px;
+    }
+    .exp-pricing-plans .exp-pricing-plans-inner .exp-pricing-plans-mid ul li {
+        margin: 20px 0;
+    }
+    .exp-pricing-plans-2 .exp-pricing-plans-inner .exp-pricing-plans-mid ul li {
+        margin: 0;
+    }
+    .exp-pricing-plans .tab-pane {
+        padding: 0 15px;
+    }
+    .exp-pricing-plans .exp-pricing-plans-inner.top-80 {
+        margin-top: 90px;
+    }
+    .exp-faq-1 .exp-tab-wrap ul li {
+        margin-left: 20px;
+    }
+    .exp-faq-1 .exp-tab-wrap ul {
+        justify-content: center;
+    }
+    .exp-home2-thumbnail {
+        display: none;
+    }
+    .exp-home2-header .slick-modified-dots {
+        width: 100%;
+        text-align: center;
+    }
+    .exp-home2-about.section-padding {
+        padding: 60px 0;
+    }
+    .exp-home2-about .col-lg-8 {
+        position: static;
+    }
+    .exp-home2-about .exp-about-wrapper {
+        padding: 0;
+        margin: 30px 0;
+    }
+    .container-wrapper .exp-img-wrapper.right-triangle:after {
+        bottom: 0;
+    }
+    .exp-home2-updates .exp-updates-author,
+    .exp-services-1.exp-home2-updates .exp-services-wrapper .exp-services-content {
+        padding: 20px;
+    }
+    .exp-about-workflow .workflow-item {
+        padding: 30px;
+    }
+    .exp-about-testimonial .testimonial-item .testimonial-content {
+        padding: 0 20px;
+    }
+    .exp-about-testimonial .testimonial-item .testimonial-content p {
+        margin: 5px 0;
+    }
+    .exp-about-testimonial .slick-modified-dots {
+        position: static;
+    }
+    .exp-achievments .achievments-counter {
+        padding: 20px;
+    }
+    .exp-portfolio-1 .grid-sizer {
+        width: calc(100% / 3);
+    }
+    .exp-portfolio-2 .project-img {
+        width: calc(100% / 2);
+    }
+    .exp-project-4 .pro-img {
+        width: calc(100% / 2) !important;
+    }
+    .exp-contact-1 .exp-contact-card {
+        margin: 0;
+        width: 100%;
+        margin-top: 50px;
+        height: auto;
+    }
+    .search_widget {
+        margin-top: 40px;
+    }
+    .col-reverse {
+        flex-direction: column-reverse;
+    }
+    .exp-coming-1 .countdown .col-content-center:nth-child(2):after {
+        display: none;
+    }
+    .exp-coming-1 .countdown {
+        margin: 50px 0;
+    }
+    .exp-home2-testimonial .exp-testimonial-slider2 {
+        padding: 0 50px;
+    }
+    .exp-home2-portfolio .slick-modified-dots {
+        width: 100%;
+        margin-top: 20px;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .exp-pricing-plans.blue-bottom.exp-pricing-plans-2.big-margin {
+        margin-top: 700px;
+    }
+    .exp-about-video .col-lg-8 {
+        position: static;
+    }
+    .exp-about-video .exp-about2-tab {
+        padding-top: 30px;
+    }
+    .exp-about-video .exp-tab-wrap {
+        margin-left: 40px;
+    }
+    .container-wrapper .exp-img-wrapper.right-side,
+    .exp-home2-product-b .container-wrapper .exp-img-wrapper.right-side {
+        margin-bottom: 20px;
+    }
+    .container-wrapper .exp-img-wrapper.right-triangle,
+    .exp-home2-product-b .container-wrapper .exp-img-wrapper.right-triangle {
+        margin-bottom: 40px;
+    }
+    .exp-img-wrapper img {
+        display: block;
+        margin: 0 auto;
+        width: 100%;
+    }
+    .exp-img-wrapper.right-triangle img,
+    .exp-img-wrapper.right-side {
+        float: none;
+    }
+    .exp-about-video .about-video-wrap {
+        position: static;
+    }
+}
+@media (max-width: 767px) {
+    .mb-sm-20 {
+        margin-bottom: 20px;
+    }
+    /* --Upcoming Events-- */
+    .event-content-box .content-wrapper .event-text-bottom,
+    .event-content-box .date-of-event{
+        justify-content: center;
+    }
+    .event-content-box .content-wrapper h5,
+    .exp-event-details .event-content-box{
+        text-align: center;
+        max-width: 100%;
+    }
+    .event-content-box .date-of-event .date-right-side {
+        margin-left: 0;
+        text-align: center;
+    }
+    .event-content-box .content-wrapper .event-text-bottom .event-location, .event-content-box .content-wrapper .event-text-bottom .event-author{
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+    /* AboutUs-2 */
+    .exp-about-us-2 .about-2-content {
+        max-width: 555px;
+        padding-left: 0;
+        padding-right: 0;
+        margin-top: 30px;
+        text-align: center;
+    }
+    .about-2-content h3 {
+        font-size: 26px;
+    }
+    .about-2-content ul li .icon {
+        font-size: 33px;
+        position: relative;
+        left: 0;
+        top: 0;
+        margin-bottom: 3px;
+    }
+    .about-2-content ul li {
+        padding-left: 15px;
+        text-align: center;
+    }
+    .about-2-image .about-img-parent {
+        padding-top: 0;
+    }
+    .about-2-image .about-img-parent:before {
+        display: none;
+    }
+    .exp-about-us-2 .container-fluid {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .about-2-image .about-img-child1 {
+        position: relative;
+        left: 0;
+        top: 0;
+        border-width: 0;
+        margin-top: 15px;
+    }
+    .about-2-image .about-img-child2 {
+        position: relative;
+        left: 0;
+        bottom: 0;
+        border-width: 0;
+        margin-top: 15px;
+    }
+    /* WhyChooseUs-new */
+    .exp-why-choose-us .why-choose-content .content-with-width {
+        text-align: center;
+        max-width: 100%;
+        padding: 40px 15px 60px;
+    }
+    .exp-why-choose-us .why-choose-content .content-with-width ul {
+        text-align: left;
+    }
+    .exp-why-choose-us .why-choose-content .content-with-width ul li {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    /*Mission-History */
+    .exp-mission-history .exp-mission-image img {
+        display: block;
+        width: 100%;
+    }
+    .exp-mission-history .exp-mission-image {
+        background-image: unset;
+        height: auto;
+    }
+    /*spacing-detail-section*/
+    .exp-spacing-detail .exp-workspace-area {
+        display: block;
+    }
+    /*lw-about-section*/
+    .lw-about-primary-image-wrapper {
+        width: 396px;
+    }
+    .lw-about-secondary-image-wrapper {
+        top: 55px;
+        width: 234px;
+    }
+    .lw-about-square-box {
+        height: 526px;
+    }
+    .exp-project-3 .project-gallery .gallery-size {
+        column-width: 19em;
+    }
+    .title-padding-right {
+        padding-right: 0;
+    }
+    .video-img .video-btn-wrapper {
+        width: 100%;
+    }
+    .slick-modified-dots {
+        padding: 20px;
+    }
+    .exp-footer-copyright {
+        text-align: center;
+    }
+    .exp-footer-style-2 .exp-footer-social {
+        margin-top: 20px;
+    }
+    .achievments-counter.d-flex {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .exp-home1-header .slick-modified-dots {
+        text-align: center;
+    }
+    .achievments-counter.d-flex .icon-block {
+        margin-bottom: 20px;
+        margin-right: 0;
+    }
+    .exp-contact-us .contact-us-wrapper:before {
+        width: 100%;
+        left: 0;
+    }
+    .exp-pricing-plans .exp-pricing-plans-inner.top-80 {
+        margin-top: 20px;
+    }
+    .exp-faq-1 .tab-content {
+        padding: 0;
+    }
+    .exp-about-testimonial .testimonial-item {
+        display: block;
+    }
+    .exp-about-testimonial .testimonial-item .testimonial-content {
+        margin: 20px 0;
+        padding: 0;
+        text-align: center;
+    }
+    .exp-about-testimonial .testimonial-item .testimonial-content span {
+        float: left;
+        font-size: 30px;
+    }
+    .exp-about-testimonial .testimonial-item .author {
+        justify-content: center;
+    }
+    .exp-about-testimonial .testimonial-item .author span {
+        display: none;
+    }
+    .exp-about-testimonial .testimonial-item .author div {
+        margin-left: 0;
+    }
+    .exp-portfolio-1 .grid-sizer {
+        width: calc(100% / 1)
+    }
+    .exp-portfolio-2 .project-img {
+        width: calc(100% / 1);
+    }
+    .exp-project-3 .pro-img {
+        width: 100%;
+    }
+    .exp-project-5 .project-item {
+        width: 100%;
+    }
+    .exp-project-4 .pro-img {
+        width: 100% !important;
+    }
+    .exp-coming-1 .countdown .col-content-center:after {
+        position: static;
+    }
+    .exp-coming-1 .countdown .col-content-center:nth-child(2):after {
+        display: block;
+    }
+    .exp-coming-2 .form-group {
+        margin-bottom: 20px;
+    }
+    .exp-home2-testimonial .exp-testimonial-slider2 {
+        padding: 0 20px;
+    }
+    .exp-home2-testimonial .exp-testimonial-item .exp-testimonial-item-inner {
+        display: block;
+    }
+    .exp-home2-testimonial .exp-testimonial-item .exp-testimonial-img img {
+        margin: 0 auto;
+    }
+    .exp-home2-testimonial .exp-testimonial-item .exp-testimonial-content {
+        width: 100%;
+        margin: 0;
+        padding: 10px 0;
+        text-align: center;
+    }
+    .exp-home2-testimonial .exp-testimonial-item .exp-testimonial-content .exp-author {
+        display: block;
+    }
+    .exp-home2-testimonial .exp-testimonial-item .exp-testimonial-content .exp-author span {
+        display: none;
+    }
+    .exp-home2-testimonial .exp-testimonial-item .exp-testimonial-content .exp-author div {
+        margin-left: 0;
+    }
+    .exp-home2-portfolio .portfolio-cont .col-12 {
+        position: static;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .exp-home2-portfolio .home2-portfolio .item {
+        margin-left: 0;
+    }
+    .exp-pricing-plans.blue-bottom.exp-pricing-plans-2.big-margin {
+        margin-top: 0;
+    }
+    .exp-about-video .about-video-wrap {
+        display: block;
+    }
+    .exp-about-video .vid-img {
+        margin-top: 50px;
+    }
+    .exp-about-video .vid-img img {
+        width: 100%;
+    }
+    .exp-img-wrapper img {
+        display: block;
+        margin: 0 auto;
+        width: 100%;
+    }
+    .exp-img-wrapper.right-triangle img {
+        float: none;
+    }
+    .exp-about-video .col-lg-8,
+    .exp-about-video .about-video-wrap {
+        width: 100%;
+    }
+    .exp-project-2.exp-home2-portfolio:before {
+        height: 100%;
+    }
+    .exp-customers .exp-customer-content ul {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .exp-customers .exp-custom-content2 {
+        display: none;
+    }
+    .exp-account .exp-account-content {
+        display: none;
+    }
+    .exp-account .exp-account-content {
+        display: none;
+    }
+    .exp-cal2 .exp-cal-icon a {
+        position: relative;
+        top: 5px;
+        left: 45%;
+        padding: 12px 20px;
+    }
+    .exp-cal2 .btn-primary {
+        margin-top: 20px;
+    }
+    .exp-cal2 .exp-cal2-content {
+        margin-top: 20px;
+    }
+    .exp-cal .exp-cal-img p {
+        margin-bottom: 20px;
+    }
+    /*listing-detail*/
+    .listing-detail-header .listing-address p,
+    .listing-detail-header{
+        display: block;
+        text-align: center;
+    }
+    .locations-sec .locations-right-side{
+        padding: 40px;
+    }
+    .mb-sm-20 {
+        margin-bottom: 20px;
+    }
+    .mb-sm-30 {
+        margin-bottom: 30px;
+    }
+    .mb-sm-40 {
+        margin-bottom: 40px;
+    }
+    .mb-sm-80 {
+        margin-bottom: 80px;
+    }
+}
+@media (max-width: 576px) {
+    .topbar .left-side li a i{
+        font-size: 14px;
+    }
+    .topbar .left-side li a{
+        font-size: 0;
+    }
+    .cw-testimonial-box .testimonials-inner .testimonials-item{
+        margin-bottom: 40px;
+    }
+    .cw-testimonial-box .testimonials-inner .testimonials-item{
+        display: block;
+    }
+    .cw-testimonial-box .testimonials-inner .testimonials-item .testimonials-img{
+        max-width: 200px;
+        margin: 0 auto 20px;
+    }
+    .cw-testimonial-box .testimonials-inner .testimonials-item .testimonials-content{
+        margin-left: 0px;
+        padding-left: 10px;
+    }
+    .cw-testimonial-box .testimonials-inner .testimonials-item cite{
+        position: relative;
+        top: -10px;
+    }
+    /* New-Pricing */
+    .pricing-container>.tab-body>.row[class^=col-] {
+        padding: 0 15px;
+        margin-top: 0;
+    }
+    .pricing-container .pricing-box {
+        margin-bottom: 40px;
+    }
+    .pricing-container .pricing-box-2 {
+        margin-bottom: 0;
+    }
+    /* AboutUs-2 */
+    .about-2-content ul li {
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding-left: 15px;
+        padding-top: 30px;
+    }
+    /* WhyChooseUs-new */
+    .exp-why-choose-us .why-choose-content .content-with-width ul li {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    /*lw-about-section*/
+    .lw-about-secondary-image-wrapper,
+    .lw-about-square-box {
+        display: none;
+    }
+    .lw-about-primary-image-wrapper {
+        width: auto;
+    }
+    .lw-about-section {
+        margin-top: 40px;
+    }
+    .exp-project-3 .project-gallery .gallery-size {
+        column-width: 22em;
+    }
+    .container-wrapper .exp-img-wrapper {
+        padding: 0;
+    }
+    .container-wrapper .exp-img-wrapper.right-side:after {
+        right: 0;
+    }
+    .exp-testimonial-1 .exp-testimonial-content {
+        padding: 20px;
+        left: 5px;
+        margin-right: 5px;
+        bottom: 25px;
+    }
+    .exp-testimonial-1 .exp-testimonial-content.margin-right-10 {
+        margin-right: 5px;
+    }
+    .exp-stylish-border:before {
+        top: -75px;
+    }
+    .exp-pricing-accordion .card .card-header button {
+        font-size: 13px;
+    }
+    .exp-pricing-accordion .card-body h6 {
+        font-size: 13px;
+    }
+    .exp-pricing-accordion .card .card-body p {
+        width: 100%;
+        font-size: 12px;
+        line-height: 24px;
+    }
+    .container-wrapper .exp-img-wrapper.right-triangle:after {
+        bottom: 20px;
+    }
+    .exp-home2-updates .exp-updates-author,
+    .exp-services-1.exp-home2-updates .exp-services-wrapper .exp-services-content {
+        padding: 20px;
+    }
+    .exp-home2-download .download-circle {
+        width: 360px;
+        height: 360px;
+    }
+    .exp-portfolio .grid-sizer,
+    .exp-portfolio .grid-item {
+        margin-left: -25px;
+    }
+    .exp-project-2 .exp-tab-wrap ul {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        border-radius: 1px;
+        padding: 0;
+    }
+    .exp-project-2 .exp-tab-wrap ul li a {
+        padding: 10px;
+    }
+    .exp-project-5 .project-item {
+        width: 100%;
+    }
+    .exp-coming-2 .counterup .wrap {
+        margin-right: 5px;
+    }
+    .exp-coming-2 form .form-control {
+        width: 250px;
+    }
+    /*listing Detail*/
+    .listing-detail-wrapper .listing-meta .listing-meta-grid .content-box{
+        border-left: 1px solid #e3e3e3;
+    }
+    .locations-sec .locations-right-side{
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    /*Navigation*/
+    .menu-style-17 .navigation nav .logo {
+        margin: 10px 0 10px auto;
+    }
+    .menu-style-17 .navigation nav .cta-btn {
+        display: none;
+    }
+    .mb-xs-20 {
+        margin-bottom: 20px;
+    }
+    .mb-xs-30 {
+        margin-bottom: 30px;
+    }
+    .mb-xs-40 {
+        margin-bottom: 40px;
+    }
+    .mb-xs-80 {
+        margin-bottom: 80px;
+    }
+}
+@media (max-width: 470px) {
+    /* --New Blog-- */
+    .exp-new-blog .new-blog-left {
+        flex-direction: column;
+    }
+    .exp-new-blog .new-blog-left .new-blog-date {
+        width: 100%;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-left-radius: 0px;
+    }
+    .exp-new-blog .new-blog-left .new-blog-date span {
+        font-size: 33px;
+        display: inline-block;
+        padding-right: 10px;
+    }
+    .exp-coming-2 form .form-control {
+        margin-bottom: 20px;
+    }
+
+    /*listings*/
+    .listing-header{
+        display: block;
+        text-align: center;
+    }
+    .listing-header .sortby{
+        justify-content: center;
+    }
+}
+@media (max-width: 450px) {
+    .exp-tag-social span {
+        margin-top: 20px;
+    }
+    .social-share .social-icons li {
+        margin-top: 20px;
+    }
+}
+@media(max-width:425px) {
+    .exp-range-slider .flex-slider .exp-range-input {
+        display: inline-block;
+    }
+    .exp-range-slider .flex-slider {
+        display: block;
+    }
+    .exp-range-slider .flex-slider button {
+        margin-left: 13px;
+    }
+}
+@media (max-width: 340px) {
+    .exp-home3-price .exp-tab-wrap {
+        margin-left: 0;
+    }
+    .exp-home3-price .exp-tab-wrap ul {
+        flex-direction: column;
+    }
+    .exp-pricing-plans .exp-tab-wrap .nav-pills .nav-item .nav-link {
+        border: 1px solid silver;
+    }
+    .exp-pricing-plans .exp-tab-wrap .nav-pills .nav-item .nav-link:before {
+        display: none;
+    }
+}
+@media (max-width: 992px) and (min-width: 768px) {
+    /*Aboutus-2 */
+    .about-2-content ul {
+        text-align: left;
+    }
+    /*Mission-History */
+    .exp-mission-history .row .col-lg-3:nth-child(1) {
+        order: 2;
+    }
+    .exp-mission-history .row .col-lg-3:nth-child(2) {
+        order: 1;
+    }
+    .exp-mission-history .row .col-lg-3:nth-child(3) {
+        order: 3;
+    }
+    .exp-mission-history .row .col-lg-3:nth-child(4) {
+        order: 4;
+    }
+}
+@media (max-width: 767px) and (min-width: 567px) {
+    /*Aboutus-2 */
+    .exp-about-us-2 .container-fluid {
+        max-width: 540px;
+    }
+    .about-2-image .about-img-parent {
+        max-width: 80%;
+        padding-top: 25px;
+    }
+    .about-2-image .about-img-parent:before {
+        display: block;
+    }
+    .about-2-image .about-img-child1 {
+        position: absolute;
+        top: 55px;
+        border-width: 3px;
+        margin-top: 0;
+        max-width: 60%;
+    }
+    .about-2-image .about-img-child2 {
+        position: absolute;
+        bottom: 55px;
+        border-width: 3px;
+        margin-top: 0;
+        max-width: 60%;
+    }
+}
